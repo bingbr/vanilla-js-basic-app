@@ -1,5 +1,5 @@
 # Orçamento Vanilla JS
-Acesse agora: http://bingbr.github.io/vanilla-js-basic-app
+Acesse agora: https://bingbr.github.io/vanilla-js-basic-app
 
 ### Sobre
 Aplicação web que permite adicionar e remover despesas, também permite baixar e fazer upload de despesas. 
@@ -9,6 +9,9 @@ A aplicação usa o local storage para armazenar os dados. As despesas são salv
 
 ### Funcionamento
 A aplicação roda no navegador e nenhuma informação é enviada para o servidor.
+
+## Demonstração
+![Usando Orçamento Vanilla JS](/demo.gif)
 
 ## Feito com
 - [Vanilla JS](http://vanilla-js.com/)
